@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/manav/ros2_ws/install/one_swerve_mod/include/**",
+        "/home/manav/ros2_ws/install/holo_cpp_4d/include/**",
+        "/home/manav/ros2_ws/install/vesc_bldc/include/**",
+        "/home/manav/ros2_ws/install/twd_omni_cpp/include/**",
+        "/home/manav/ros2_ws/install/swerveinc/include/**",
+        "/home/manav/ros2_ws/install/realsense2_camera/include/**",
+        "/home/manav/ros2_ws/install/realsense2_camera_msgs/include/**",
+        "/home/manav/ros2_ws/install/outdoor_nav_msgs/include/**",
+        "/home/manav/ros2_ws/install/gazebo_ros2_control/include/**",
+        "/home/manav/ros2_ws/install/follow_manav_msgs/include/**",
+        "/home/manav/ros2_ws/install/diffinc/include/**",
+        "/home/manav/ros2_ws/install/cpp_swerve_new/include/**",
+        "/home/manav/ros2_ws/install/ardmega_sensor_log/include/**",
+        "/home/manav/Rtos_pro/agent_ws/install/micro_ros_agent/include/**",
+        "/home/manav/Rtos_pro/agent_ws/install/micro_ros_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ros2",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
